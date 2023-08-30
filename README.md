@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I am:**
+- Working at: [Extron](extron.com)
+
+**Contact Information:**
+- Email: 
+- Discord: 
+
+**Projects:**
+- WIP
