@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 
 **Projects:**
 - WIP
+
+**Soft Skills:**
+- Team Player
+- Problem Solver
+- Exellent Written and Oral Communication
